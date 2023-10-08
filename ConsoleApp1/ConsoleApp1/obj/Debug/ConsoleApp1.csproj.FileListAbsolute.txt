@@ -1,0 +1,7 @@
+E:\Database-Conection\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Database-Conection\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Database-Conection\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Database-Conection\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\Database-Conection\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Database-Conection\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Database-Conection\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
