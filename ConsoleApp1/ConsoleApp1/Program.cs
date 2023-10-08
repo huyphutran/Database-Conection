@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            DbConnection sqlConnection = new SqlConnection("SQL Server Connection String",TimeSpan.FromSeconds(5));
+            DbConnection sqlConnection = new SqlConnection("SQL Server Connection",TimeSpan.FromSeconds(5));
             DbCommand sqpcommand = new DbCommand("select * from customer",sqlConnection);
             sqpcommand.Execute();
 
