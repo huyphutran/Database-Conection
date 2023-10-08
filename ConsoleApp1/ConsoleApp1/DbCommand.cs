@@ -12,6 +12,7 @@ namespace ConsoleApp1
         internal DbCommand(string instruction, DbConnection dbConnection)
         {
             if (string.IsNullOrEmpty(_instruction))
+                Console.WriteLine("Command Status {0}", instruction);
             _instruction = instruction;
             _dbconnection = dbConnection;
         }
